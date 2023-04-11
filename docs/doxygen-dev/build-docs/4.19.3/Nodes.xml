@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DocSetNodes version="1.0">
+  <TOC>
+    <Node>
+      <Name>Root</Name>
+      <Path>index.html</Path>
+      <Subnodes>
+       <Node>
+        <Name>Autopsy Developer&apos;s Guide</Name>
+        <Path>index.html</Path>
+      <Subnodes>
+        <Subnodes>
+           <Node>
+            <Name>Overview</Name>
+            <Path>index.html</Path>
+            <Anchor>autotoc_md0</Anchor>
+           </Node>
+           <Node>
+            <Name>Topics</Name>
+            <Path>index.html</Path>
+            <Anchor>autotoc_md1</Anchor>
+           </Node>
+          </Subnodes>
+         <Node>
+          <Name>Regression Testing in Autopsy</Name>
+          <Path>regression_testing.html</Path>
+        <Subnodes>
+           <Node>
+            <Name>Introduction</Name>
+            <Path>regression_testing.html</Path>
+            <Anchor>intro_regression</Anchor>
+           </Node>
+           <Node>
+            <Name>General</Name>
+            <Path>regression_testing.html</Path>
+            <Anchor>general</Anchor>
+           </Node>
+           <Node>
+            <Name>Terminology</Name>
+            <Path>regression_testing.html</Path>
+            <Anchor>terminology</Anchor>
+           </Node>
+           <Node>
+            <Name>Parameter Descriptions</Name>
+            <Path>regression_testing.html</Path>
+            <Anchor>param_desc</Anchor>
+           </Node>
+           <Node>
+            <Name>Creating a Config File</Name>
+            <Path>regression_testing.html</Path>
+            <Anchor>creating_config_file</Anchor>
+          <Subnodes>
+             <Node>
+              <Name>Template</Name>
+              <Path>regression_testing.html</Path>
+              <Anchor>template</Anchor>
+             </Node>
+             <Node>
+              <Name>Tag Definitions</Name>
+              <Path>regression_testing.html</Path>
+              <Anchor>tag_def</Anchor>
+             </Node>
+            </Subnodes>
+           </Node>
+           <Node>
+            <Name>Simple Example</Name>
+            <Path>regression_testing.html</Path>
+            <Anchor>example</Anchor>
+          <Subnodes>
+             <Node>
+              <Name>Workspace</Name>
+              <Path>regression_testing.html</Path>
+              <Anchor>wrkspace</Anchor>
+             </Node>
+             <Node>
+              <Name>Config File</Name>
+              <Path>regression_testing.html</Path>
+              <Anchor>config_file</Anchor>
+             </Node>
+             <Node>
+              <Name>Rebuilding Gold Standards</Name>
+              <Path>regression_testing.html</Path>
+              <Anchor>rebuild</Anchor>
+             </Node>
+             <Node>
+              <Name>Performing a Regression Test</Name>
+              <Path>regression_testing.html</Path>
+              <Anchor>perform_reg_test</Anchor>
+             </Node>
+             <Node>
+              <Name>Examining the Diffs</Name>
+              <Path>regression_testing.html</Path>
+              <Anchor>examine_diffs</Anchor>
+             </Node>
+            </Subnodes>
+           </Node>
+          </Subnodes>
+         </Node>
+         <Node>
+          <Name>Functional/Unit Testing in Autopsy</Name>
+          <Path>unit_functional_testing.html</Path>
+        <Subnodes>
+           <Node>
+            <Name>Introduction</Name>
+            <Path>unit_functional_testing.html</Path>
+            <Anchor>intro_unit</Anchor>
+           </Node>
+           <Node>
+            <Name>Running Tests by NBM</Name>
+            <Path>unit_functional_testing.html</Path>
+            <Anchor>nbm</Anchor>
+           </Node>
+           <Node>
+            <Name>Running Tests by Package</Name>
+            <Path>unit_functional_testing.html</Path>
+            <Anchor>package</Anchor>
+           </Node>
+           <Node>
+            <Name>Running Tests by File</Name>
+            <Path>unit_functional_testing.html</Path>
+            <Anchor>file</Anchor>
+           </Node>
+          </Subnodes>
+         </Node>
+        </Subnodes>
+       </Node>
+      </Subnodes>
+    </Node>
+  </TOC>
+</DocSetNodes>
