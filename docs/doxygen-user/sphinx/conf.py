@@ -29,4 +29,4 @@ html_static_path = ['_static']
 html_extra_path = ['../user-docs/html']
 
 import subprocess
-subprocess.call('cd ..; doxygen', shell=true)
+subprocess.call('cd ..; doxygen', shell=True)
