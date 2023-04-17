@@ -41,6 +41,7 @@ public class AutopsyOptionProcessor extends OptionProcessor {
     
     private static final Logger logger = Logger.getLogger(AutopsyOptionProcessor.class.getName());
     private final Option liveAutopsyOption = Option.optionalArgument('l', "liveAutopsy");
+    private final Option deadAutopsyOption = Option.optionalArgument('2', "deadAutopsy");
     // @@@ We should centralize where we store this.  It is defined in 2 other places. 
     private final static String PROP_BASECASE = "LBL_BaseCase_PATH";
 
