@@ -9,6 +9,10 @@ Welcome to Autopsy's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   doxygen-user/*
+   doxygen-dev/*
+   doxygen/*
+   
 
 
 
